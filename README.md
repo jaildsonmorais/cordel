@@ -1,1 +1,1 @@
-# https://jaildsonmorais.github.io/cordel/imagens/index.html
+# https://jaildsonmorais.github.io/cordel/index.html
